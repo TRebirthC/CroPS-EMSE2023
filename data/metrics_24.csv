@@ -1,0 +1,24 @@
+project,starting_time,license,language,core_dev,domain,company,audience,os,user_interface,use_database,localized,single_pl,owner_type
+ansible,2012,GPL-3.0,Python,64,automatic operation and maintenance,ansible,developer,"Mac,Windows,Linux",Toolkit,0,0,0,Organization
+brackets,2011,MIT,"JavaScript,HTML",203,web,adobe,developer,"Mac,Windows,Linux",Graphical,0,1,0,Organization
+broadleaf,2008,,Java,7,e-commerce platform,broadleaf,developer,"Mac,Windows,Linux",Non-interactive,1,0,0,Organization
+camel,2007,Apache-2.0,Java,1200,program develop,apache,developer,"Mac,Windows,Linux",Non-interactive,1,0,0,Organization
+corefx,2014,MIT,C#,560,cross-platform develop,microsoft,developer,"Mac,Windows,Linux",Non-interactive,1,1,0,Organization
+django,2005,BSD-3-Clause,Python,64,web,django,developer,"Mac,Windows,Linux",Toolkit,1,1,0,Organization
+elasticsearch,2010,,Java,144,search engine,elastic,developer,"Mac,Windows,Linux",Graphical,1,1,0,Organization
+fabric,2011,Apache-2.0,Go,67,web,Hyperledger,developer,"Mac,Windows,Linux",Non-interactive,1,0,1,Organization
+googleflutter,2014,BSD-3-Clause,Dart,85,mobile application UI Toolkit,flutter,developer,"Mac,Windows,Linux",Toolkit,0,0,0,Organization
+homebrew,2017,BSD-2-Clause,Ruby,48,package manager,Homebrew,developer,"Mac,Linux",Toolkit,0,0,0,Organization
+jgroups,2003,Apache-2.0,Java,1,Java library,None,developer,"Mac,Windows,Linux",Toolkit,0,0,1,User
+neutron,2011,Apache-2.0,Python,,cloud compute,openstack,developer,"Mac,Windows,Linux",Toolkit,0,0,1,Organization
+node,2009,,"JavaScript,C++,Python",310,JavaScript runtime,nodejs,developer,"Mac,Windows,Linux",Non-interactive,0,0,0,Organization
+nova,2010,Apache-2.0,Python,,cloud compute,openstack,developer,"Mac,Windows,Linux",Toolkit,0,0,0,Organization
+npm,2009,,JavaScript,10,package manager,npm,developer,"Mac,Windows,Linux",Graphical,1,1,1,Organization
+panda,2009,BSD-3-Clause,Python,37,data analysis,pandas,developer,"Mac,Windows,Linux",Toolkit,0,0,0,Organization
+pytorch,2012,,"C++,Python",52,Machine Learning,pytorch,developer,"Mac,Windows,Linux",Toolkit,0,0,0,Organization
+rails,2004,MIT,Ruby,57,web,rails,developer,"Mac,Windows,Linux",Non-interactive,1,1,0,Organization
+rust,2010,"Apache-2.0,MIT",Rust,177,programming language,rust,developer,"Mac,Windows,Linux",Non-interactive,0,0,0,Organization
+tensorflow,2015,Apache-2.0,"C++,Python",252,Machine Learning,tensorflow,developer,"Mac,Windows,Linux",Toolkit,0,0,0,Organization
+tomcat,2006,Apache-2.0,Java,1200,web,apache,developer,"Mac,Windows,Linux",Non-interactive,1,0,0,Organization
+vscode,2015,MIT,TypeScript,4400,code editor,microsoft,developer,"Mac,Windows,Linux",Graphical,1,1,0,Organization
+wp-calypso,2014,GPL-2.0,"JavaScript,TypeScript",192,web,Automattic,developer,"Mac,Windows,Linux",Graphical,1,0,0,Organization
