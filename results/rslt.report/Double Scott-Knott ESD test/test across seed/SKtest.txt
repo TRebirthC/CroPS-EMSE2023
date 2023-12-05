@@ -1,0 +1,58 @@
+library(ScottKnottESD)
+
+data<-read.csv("D:/Data_process/RQ23/ac_rslt/)
+data<-data[1:4]
+sk <- sk_esd(data, version="np")
+plot(sk)
+checkDifference(sk$groups, data)
+
+library(ScottKnottESD)
+data<-read.csv("D:/20230306/Scott-knott/oob-mcc.csv")
+data<-data[2:6]
+sk <- sk_esd(data, version="np")
+plot(sk)
+checkDifference(sk$groups, data)
+
+library(ScottKnottESD)
+data<-read.csv("D:/20230306/Scott-knott/odasc-mcc.csv")
+data<-data[2:6]
+sk <- sk_esd(data, version="np")
+plot(sk)
+checkDifference(sk$groups, data)
+
+
+checkDifference(sk$groups, data)
+
+
+library(ScottKnottESD)
+data<-read.csv("D:/20230306/Scott-knott/pbsa-gmean.csv")
+data<-data[2:6]
+sk <- sk_esd(data, version="np")
+plot(sk)
+checkDifference(sk$groups, data)
+
+library(ScottKnottESD)
+data<-read.csv("D:/20230306/Scott-knott/oob-gmean.csv")
+data<-data[2:6]
+sk <- sk_esd(data, version="np")
+plot(sk)
+checkDifference(sk$groups, data)
+
+library(ScottKnottESD)
+data<-read.csv("D:/20230306/Scott-knott/odasc-gmean.csv")
+data<-data[2:6]
+sk <- sk_esd(data, version="np")
+plot(sk)
+checkDifference(sk$groups, data)
+
+library(ScottKnottESD)
+data<-read.csv("D:/scott-knott-test/pbsa-gmean.csv")
+sk <- sk_esd(data, version="np")
+plot(sk)
+
+data<-read.csv("D:/scott-knott-test/new/pbsa_mcc.csv")
+data<-data[2:5]
+sk <- sk_esd(data, version="np")
+plot(sk)
+
+checkDifference(sk$groups, data)
